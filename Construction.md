@@ -1,12 +1,18 @@
-Úvod
+#Úvod
 
-Prvotní úvahy - použité materiály,jednotlivé části konstrukce, rendery
-Kostra konstrukce - využití "modulárních" hliníkových profilů
-Stěny konstrukce
-Pohyblivé části
-  Landing pad
+#Prvotní úvahy - použité materiály,jednotlivé části konstrukce, rendery
+
+#Kostra konstrukce - využití "modulárních" hliníkových profilů
+
+#Stěny konstrukce
+
+#Pohyblivé části
+
+#Landing pad
     - Zarovnávací mechanismus
     - Nabíjení
-  Dveře
+    
+#Dveře
     - Mechanismus
-  Spodní část hangáru s elektronikou
+    
+#Spodní část hangáru s elektronikou

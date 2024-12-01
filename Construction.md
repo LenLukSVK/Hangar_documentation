@@ -7,17 +7,18 @@ střední část hangáru (dále jako Landing pad), ve které je umístěna vět
 ### Vrchní část hangáru - "Dveře"
 Nejvýše položená část hangáru (dále jako dveře), je pohyblivá konstukce s účelem zakrytí dronu a jeho ochraně před nepříznivými jevy okolí.
 
-# Prvotní úvahy 
-
-# Kostra konstrukce - využití "modulárních" hliníkových profilů
+# Kostra konstrukce
+Stěžejní částí celé konstrukce hangáru je kostra sestavena z hliníkových profilů 30x30 B8. Profily jsou k sobě uchyceny za pomoci úhelníků a kladívkových šroubů. Celá kostra je sestavena ze čtyř jednotlivých částí. Hliníkové profily byly zvoleny kvůli snadné práci a manipulaci. Drážky profilů jsou využity k uchycení potřebných ploch a stěn. *model kostry, nějaké data ohledně profilů?
 
 # Stěny konstrukce
 
-# Pohyblivé části
-
 # Landing pad
-    - Zarovnávací mechanismus
-    - Nabíjení
+Landing pad je stěžejní částí celého hangáru. Skládá se z samotné přistávací plochy a vnitřní části ukrývající elektroniku.
+
+### Vystřeďovací mechanismus
+Vystřeďovací mechanismus řeší problematiku schopnosti dronu přistát s přesností na desítky centimetrů. Díky mechanismu je hangár schopen drona automaticky vystředit a započít tak jeho nabíjení. Zároveň to dronu udává pokaždé stejné startovací souřadnice.
+
+Vystřeďovací mechanismus je vyřešen za pomoci čtyř motorků typu *XXX a ozubených řemenů. Motorky jsou pomocí *modelX uchyceny k *modelxx, jenž je zároveň hlavním vyztužením landing padu. 
     
 # Dveře
     - Mechanismus

@@ -33,7 +33,9 @@ Nejvýše položenou částí hangáru jsou dveře. Jedná se o pohyblivý mecha
 
 #### 3.4.1 Mechanismus pohybu dveří (+ Výpočty??)
 Použitým krokovým motorem pro pohyb dveří je NEMA 17 s jmenovitým proudem 1,68 A a napětím o hodnotě 2,8 V. Tento motor je zpřevodován planetovou převodovkou v poměru 50,9:1 a výsledný kroutící moment tak dosahuje velikosti o 6 Nm. (viz sekce 4).
-Motor je, za pomoci kovového držáku, šrouby uchycen přímo do profilu. Na osu motoru je pomocí redukce pevně přichycena ocelová trapézová závitová tyč o velikosti závitu M8. Tato tyč je podpůrně upevněna k profilu za pomoci MODEL 5, aby nedošlo k jejímu zdeformování při zatížení. Na tyči je navinuta mosazná matice odpovídajících parametrů s připevněným MODEL 6. Tento model slouží jakožto redukce k připevnění tyče k MODEL 7. MODEL 7 figuruje jakožto jezdec po kolejnici tvořené z hliníkové tyče o průměru M10. Kolejnice je do profilu uchycena za pomoci MODEL 8. Mechanismus je použit celkem 4x. Pro každou stranu dveří jednou.
+
+Motor je, za pomoci kovového držáku, šrouby uchycen přímo do profilu. Na osu motoru je pomocí redukce pevně přichycena ocelová trapézová závitová tyč o velikosti závitu M8. Tato tyč je podpůrně upevněna k profilu za pomoci MODEL 5, aby nedošlo k jejímu zdeformování při zatížení. Na tyči je navinuta mosazná matice odpovídajících parametrů s připevněným MODEL 6. Tento model slouží jakožto redukce k připevnění tyče k MODEL 7. MODEL 7 figuruje jako jezdec po kolejnici tvořené z hliníkové tyče o průměru M10. Kolejnice je do profilu uchycena za pomoci MODEL 8. Mechanismus je použit celkem 4x. Pro každou stranu dveří jednou.
+
 Při souběžné rotaci krokových motorů na každé straně dveří začne stoupat matice společně s MODEL 6 vzhůru a pomocí uchycení ke kolejnici tak odláčet dveře směrem vzhůru. Při zadání invertovaného příkazu krokovým motorům se začné trapézová tyč otáčet opačným směrem a dveře se zavřou.
 
 ### 3.5 Modely

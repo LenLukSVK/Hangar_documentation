@@ -1,9 +1,18 @@
-# Úvod
-Základní koncept hangáru vychází z krychlovitého tvaru s rozevírající se vrchní polovinou, tvořící dveře, a s veškerou elektronikou a výpočetní technikou umístěnou pod přistávací plochou. *nákresy/model celého hangáru. Finální design držící se krychlovitého základu můžeme rozdělit na tři části. 
-### Spodní část hangáru 
-spodní část obsahuje možnost síťového napájení, část elektroniky a je v přímem kontaktu se zemí
+Základní koncept konstrukce hangáru vychází z krychlovitého tvaru s rozevírající se vrchní částí a s veškerou elektronikou a výpočetní technikou umístěnou pod přistávací plochou. Mechanický design tak můžeme rozdělit na tři části a to základnu, střední část [Landing pad] a dveře
+
+Obrázek : Model kompletní konstrukce hangáru
+
+### Použitý materiál
+Při výběru materiálu na jednotlivé části mechanického designu byly důležité kriteria potřebných vlastností, jednoduché manipulace a opracování a nízké ceny. 
+
+Stěžejním a nejvíce využitým materiálem se stal hliník v podobě stavebnivobého systému hliníkových profilů
+
+### Základna hangáru 
+Základna hangáru obsahuje 
+
 ### Střední část hangáru - "Landing pad"
 střední část hangáru (dále jako Landing pad), ve které je umístěna většina elektroniky potřebné k fungování celého zařízení. Tato část zárověň funguje jakožto přistávací plocha pro bezpilotního drona, včetně vystředění a nabíjecího mechanismu. Díky usměrnění nejdůležitějších částí zařízení do toho místa může Landing pad figurovat jako samostatná mobilní jednotka.
+
 ### Vrchní část hangáru - "Dveře"
 Nejvýše položená část hangáru (dále jako dveře), je pohyblivá konstukce s účelem zakrytí dronu a jeho ochraně před nepříznivými jevy okolí.
 

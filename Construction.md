@@ -41,7 +41,7 @@ Motor je, za pomoci kovového držáku, šrouby uchycen přímo do profilu. Na o
 Při souběžné rotaci krokových motorů na každé straně dveří začne stoupat matice společně s MODEL 6 vzhůru a pomocí uchycení ke kolejnici tak odláčet dveře směrem vzhůru. Při zadání invertovaného příkazu krokovým motorům se začné trapézová tyč otáčet opačným směrem a dveře se zavřou.
 
 ### 3.5 Modely
-Obrázek: MODEL 1 - Hvězdice k zachycení motorů
+Obrázek: MODEL 1 - Podpora přistávací plochy a zachycení motorů
 
 Obrázek: MODEL 2 - Ozubené kolo
 

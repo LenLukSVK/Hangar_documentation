@@ -15,7 +15,7 @@ Využitým materiálem v části landing padu na přistávací plochu a na uchyc
 
 Velké zastoupení má také glykolem modifikovaný polyethylentereftalát (PET-G), jenž byl použit díky své poměrně vysoké odolnosti jakožto stěžejní materiál modelů získaných pomocí 3D tisku.
 
-Značné zastoupení mají i nejrůznější slitiny kovů jakožto ocel, či mosaz v podobě využitých tyčí, šoubků a matic.
+Značné zastoupení mají i nejrůznější slitiny kovů jakožto ocel, či mosaz v podobě využitých tyčí, šroubů a matic.
 
 ### 3.2 Základna hangáru 
 Základna hangráu je mechanicky nejjednodušší částí. Jedná se o zakrytovaný kvádrovitý objekt, vněmž jsou umístěny záložní baterie s možností připojení ke stěžejní střední části landing padu. K landing padu se základna uchytí za pomoci závitových tyčí umístěných v každém rohovém profilu. Pro veškeré stěny konsturkce bylo využito plexisklo zasunuté do drážek profilů.
@@ -29,16 +29,27 @@ V hlavní operační jednotce celého zařízení se skrývá přistávací ploc
 Každá část mechanismu je provedena 4x. Na každou stranu přistávací plochy jednou. Mechanismus je ovládán za pomoci motorů GA12-N20 - 12 V s převodovkou. Tyto motory jsou za pomoci šroubů uchyceny ze spodní části přistávací plochy na MODEL 1, jenž slouží jakožto vyztužení středu plochy. Na ose motoru je nasazen MODEL 2, jenž pohybuje s ozubeným řemenem. Řemen je přichycen k profilu za pomoci MODEL 3. Stěžejní částí je MODEL 4, jenž se za pomoci ozubeného řemene rozpohybovaného motorem pohybuje po kolejnici uchycené do MODEL 3. Všechny použité motory se pohybují vždy ve stejný okamžik. 
 
 ### 3.4 Dveře
-Nejvýše položenou částí hangáru jsou dveře. Jedná se o pohyblivý mechanismus s účelem zakrytí dronu a jeho ochraně před nepříznivými jevy okolí a následným otevřením a uvolněním letové dráhy. Dveře jsou zakryty za pomoci desek plexiskla, kvůli nízké hmotnosti a rezistivitě vůči vodě. 
+Nejvýše položenou částí hangáru jsou dveře. Jedná se o pohyblivý mechanismus s účelem zakrytí dronu a jeho ochraně před nepříznivými jevy okolí a následným otevřením a uvolněním letové dráhy. Dveře jsou zakryty za pomoci desek plexiskla, kvůli nízké hmotnosti a rezistivitě vůči vodě. Pohyb je uskutečněn čtyřmi zpřevodovanými krokovými motory z řady NEMA 17 v zapojení se závitovými tyčemi. Dvě protější hrany figurují pro dveře jakožto osy otáčení a nachází se zde kovové panty.
 
 #### 3.4.1 Mechanismus pohybu dveří
 
+
 ### 3.5 Modely
 Obrázek: MODEL 1 - Hvězdice k zachycení motorů
+
 Obrázek: MODEL 2 - Ozubené kolo
+
 Obrázek: MODEL 3 - Uchycení ozubeného řemene do profilu
+
 Obrázek: MODEL 4 - Vystřeďovací model
-Obrázek: MODEL 5 - 
+
+Obrázek: MODEL 5 - Uchycení tyče do profilu
+
+Obrázek: MODEL 6 - Model na matici
+
+Obrázek: MODEL 7 - Jezdec na kolejnici
+
+Obrázek: MODEL 8 - Uchycení kolejnice do profilu
 
 
 

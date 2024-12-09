@@ -21,7 +21,9 @@ Značné zastoupení mají i nejrůznější slitiny kovů jakožto ocel, či mo
 Základna hangráu je mechanicky nejjednodušší částí. Jedná se o zakrytovaný kvádrovitý objekt, vněmž jsou umístěny záložní baterie s možností připojení ke stěžejní střední části landing padu. K landing padu se základna uchytí za pomoci závitových tyčí umístěných v každém rohovém profilu. Pro veškeré stěny konsturkce bylo využito plexisklo zasunuté do drážek profilů.
 
 ### 3.3 Střední část hangáru - "Landing pad"
-V hlavní operační jednotce celého zařízení se skrývá přistávací plocha společně s nabíjecím mechanismem dronu a elektronikou. Pro stěny konstrukce bylo stejně jako u základny využito plexisklo. Pro vrchní a spodní stranu je však použita překližka kvůli vyšší pevnosti a jednoduché úpravě v podobě využití frézy na přesné zážezy. Na spodní překližkovou desku je uchycena veškerá elektronika. Horní deska slouží jako přistávací plocha pro dron. Dron je schopen přistát s přesností do 10 cm, proto je nutný mechanismus zarovnání dronu, jenž jej vystředí a zajistí tak spolehlivé nabíjení společně s bezpečnou dráhou vzletu.
+V hlavní operační jednotce celého zařízení se skrývá přistávací plocha společně s nabíjecím mechanismem dronu a elektronikou. Pro stěny konstrukce bylo stejně jako u základny využito plexisklo. Pro vrchní a spodní stranu je však použita překližka kvůli vyšší pevnosti a jednoduché úpravě v podobě využití frézy na přesné zážezy. Na spodní překližkovou desku je uchycena veškerá elektronika. Horní deska slouží jako přistávací plocha pro dron. 
+
+Dron je schopen přistát s přesností do 10 cm, proto je nutný mechanismus zarovnání dronu, jenž jej vystředí a zajistí tak spolehlivé nabíjení společně s bezpečnou dráhou vzletu.
 
                           Obrázek : Model landing padu
 

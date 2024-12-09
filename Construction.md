@@ -1,11 +1,20 @@
 Základní koncept konstrukce hangáru vychází z krychlovitého tvaru s rozevírající se vrchní částí a s veškerou elektronikou a výpočetní technikou umístěnou pod přistávací plochou. Mechanický design tak můžeme rozdělit na tři části a to základnu, střední část [Landing pad] a dveře
 
-Obrázek : Model kompletní konstrukce hangáru
+                            Obrázek : Model kompletní konstrukce hangáru
 
 ### Použitý materiál
-Při výběru materiálu na jednotlivé části mechanického designu byly důležité kriteria potřebných vlastností, jednoduché manipulace a opracování a nízké ceny. 
+Při výběru materiálu na jednotlivé části mechanického designu bylo důležité splˇnovat stanovené kriteria potřebných vlastností (váha, pevnost), jednoduché manipulace s materiálem a nízké ceny. 
 
-Stěžejním a nejvíce využitým materiálem se stal hliník v podobě stavebnivobého systému hliníkových profilů
+Stěžejním a nejvíce využitým materiálem je hliník v podobě stavebnivobého systému hliníkových profilů, jenž je využit na kostru konstrukce. Díky modulárnosti těchto systémů jsme byli schopni vytvořit obrys o přesně stanovených rozměrech s možností snadné úpravy. 
+                            Obrázek : Model obrysu konstrukce
+                            
+Dalším výrazným prvkem jsou stěny hangáru. Pro námi navrhnutý prototyp zařízení jsme využili desky o tloušˇtce 4 mm z plexiskla bílé barvy na míru nařezané za pomoci laseru. Zvažovali jsem také dřevěnou překližku či dibond, ale kvůli nevhodným parametrům jako je příliš vysoká cena či váha jsme využili plexisklo. Díky zmíněné modulárnosti stavebnicového systému profilů jsou veškeré desky vsunuty do drážek přiléhajících profilů a upevněny tak na místě. 
+
+Využitým materiálem v části landing padu na přistávací plochu a na uchycení elektroniky jsou voděodolné dřevěné překližky. Zde byla překližka použita kvůli své pevnosti a jednoduchému opracování dřeva, což bylo nutné pro vytvoření přesných zářezů na přistávací ploše.
+
+Velké zastoupení má také glykolem modifikovaný polyethylentereftalát (PET-G), jenž byl použit díky své poměrně vysoké odolnosti jakožto stěžejní materiál modelů získaných pomocí 3D tisku.
+
+Značné zastoupení mají i nejrůznější slitiny kovů jakožto ocel, či mosaz v podobě využitých tyčí, šoubků a matic.
 
 ### Základna hangáru 
 Základna hangáru obsahuje 

@@ -45,13 +45,13 @@ Obrázek: MODEL 1 - Podpora přistávací plochy, uchycení zarovnávacích moto
 
 Obrázek: MODEL 2 - Ozubené kolo na zarovnávací motory
 
-Obrázek: MODEL 3 - Uchycení napínáku na ozubený řemen do profilu, uchycení 
+Obrázek: MODEL 3 - Uchycení napínáku na ozubený řemen do profilu, uchycení kolejnice
 
 Obrázek: MODEL 4 - Model pro zarovnání
 
-Obrázek: MODEL 5 - Uchycení tyče do profilu
+Obrázek: MODEL 5 - Podprůrné uchycení tyče do profilu
 
-Obrázek: MODEL 6 - Model na matici
+Obrázek: MODEL 6 - Model redukce na matici
 
 Obrázek: MODEL 7 - Jezdec na kolejnici
 

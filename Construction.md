@@ -41,21 +41,26 @@ Motor je, za pomoci kovového držáku, šrouby uchycen přímo do profilu. Na o
 Při souběžné rotaci krokových motorů na každé straně dveří začne stoupat matice společně s MODEL 6 vzhůru a pomocí uchycení ke kolejnici tak odláčet dveře směrem vzhůru. Při zadání invertovaného příkazu krokovým motorům se začné trapézová tyč otáčet opačným směrem a dojde k zavření dveří.
 
 ### 3.5 Nákresy modelů
-Obrázek: MODEL 1 - Podpora přistávací plochy, uchycení zarovnávacích motorů
 
-Obrázek: MODEL 2 - Ozubené kolo na zarovnávací motory
+Obrázek: MODEL 1 - Podpora přistávací plochy, uchycení zarovnávacích motorů			landing_pad_support.sldprt	/parts - subor
 
-Obrázek: MODEL 3 - Uchycení napínáku na ozubený řemen do profilu, uchycení kolejnice
+Obrázek: MODEL 2 - Ozubené kolo na zarovnávací motory						Part3.ipt			/parts - subor /requested - stlko
 
-Obrázek: MODEL 4 - Model pro zarovnání
+Obrázek: MODEL 3 - Uchycení napínáku na ozubený řemen do profilu, uchycení kolejnice		holder_for_tensioner_and_rods	/parts - subor
 
-Obrázek: MODEL 5 - Podprůrné uchycení tyče do profilu
+Obrázek: MODEL 4 - Model pro zarovnání								Tvoja_mama.ipt			/parts - subor /requested - stlko
 
-Obrázek: MODEL 6 - Model redukce na matici
+Obrázek: MODEL 5 - Podprůrné uchycení tyče do profilu						Part_threaded_rod_stop.ipt	/parts - subor /requested - stlko
 
-Obrázek: MODEL 7 - Jezdec na kolejnici
+Obrázek: MODEL 6 - Model redukce na matici							Part4.ipt			/parts - subor /requested - stlko
 
-Obrázek: MODEL 8 - Uchycení kolejnice do profilu
+Obrázek: MODEL 7 - Jezdec na kolejnici								Part2.ipt			/parts - subor /requested - stlko
 
+Obrázek: MODEL 8 - Uchycení kolpejnice do profilu						Part69.ipt			/parts - subor /requested - stlko
+
+Routes
+
+Hangar projekt/Landing pad ass and parts/parts
+Hangar projekt/printing/requested
 
 

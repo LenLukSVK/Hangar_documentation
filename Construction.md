@@ -40,14 +40,14 @@ Motor je, za pomoci kovového držáku, šrouby uchycen přímo do profilu. Na o
 
 Při souběžné rotaci krokových motorů na každé straně dveří začne stoupat matice společně s MODEL 6 vzhůru a pomocí uchycení ke kolejnici tak odláčet dveře směrem vzhůru. Při zadání invertovaného příkazu krokovým motorům se začné trapézová tyč otáčet opačným směrem a dojde k zavření dveří.
 
-### 3.5 Modely
-Obrázek: MODEL 1 - Podpora přistávací plochy a zachycení motorů
+### 3.5 Nákresy modelů
+Obrázek: MODEL 1 - Podpora přistávací plochy, uchycení zarovnávacích motorů
 
-Obrázek: MODEL 2 - Ozubené kolo
+Obrázek: MODEL 2 - Ozubené kolo na zarovnávací motory
 
-Obrázek: MODEL 3 - Uchycení ozubeného řemene do profilu
+Obrázek: MODEL 3 - Uchycení napínáku na ozubený řemen do profilu, uchycení 
 
-Obrázek: MODEL 4 - Vystřeďovací model
+Obrázek: MODEL 4 - Model pro zarovnání
 
 Obrázek: MODEL 5 - Uchycení tyče do profilu
 

@@ -12,7 +12,7 @@ Obrázek: MODEL 6 - Model redukce na matici							Part4.ipt			/parts - subor /re
 
 Obrázek: MODEL 7 - Jezdec na kolejnici								Part2.ipt			/parts - subor /requested - stlko
 
-Obrázek: MODEL 8 - Uchycení kolpejnice do profilu						Part69.ipt			/parts - subor /requested - stlko
+Obrázek: MODEL 8 - Uchycení kolejnice do profilu						Part69.ipt			/parts - subor /requested - stlko
 
 Routes
 
